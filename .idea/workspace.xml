@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a650a0a4-7719-4477-b188-f248d5eb93da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ui-binhit/assets/css/adventure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ui-binhit/assets/img/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ui-binhit/assets/img/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ui-binhit/journey-to-jotunheim.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/hello-elementor/template-parts/term_of_user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error_log" beforeDir="false" afterPath="$PROJECT_DIR$/error_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-team/art-directer.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-team/art-directer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-team/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/home-team/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-team/ceo.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-team/ceo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-team/cmo.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-team/cmo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-team/developer.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-team/developer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-team/front-end-leader.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-team/front-end-leader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-elementor/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/hello-elementor/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/assets/js/process.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/assets/js/process.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/assets/web3.js-browser.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/assets/web3.js-browser/web3.js/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/assets/web3.js-browser/web3.js/docs/web3-eth-miner.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/inc/new-home.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/inc/new-home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/new-home/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/new-home/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/hello-theme-child-master/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/11/viking-png-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2021/11/viking-png-1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="262nvWnLIAdznzfQUb4KBcESFKL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../startbootstrap-sb-admin-gh-pages/index.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a650a0a4-7719-4477-b188-f248d5eb93da" name="Changes" comment="" />
+      <created>1646630784724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646630784724</updated>
+      <workItem from="1646630790563" duration="1324000" />
+      <workItem from="1646648567295" duration="12641000" />
+      <workItem from="1646699286603" duration="4126000" />
+      <workItem from="1646726623947" duration="8300000" />
+      <workItem from="1646786551072" duration="7130000" />
+      <workItem from="1646884253014" duration="9586000" />
+      <workItem from="1646906861882" duration="772000" />
+      <workItem from="1646919599220" duration="909000" />
+      <workItem from="1646958302425" duration="7195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

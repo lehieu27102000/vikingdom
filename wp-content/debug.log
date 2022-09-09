@@ -1,0 +1,24 @@
+[10-Dec-2021 16:22:58 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 16384 bytes) in /home/runcloud/webapps/viking/wp-content/plugins/elementor/includes/base/widget-base.php on line 574
+[10-Dec-2021 16:22:58 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in /home/runcloud/webapps/viking/wp-includes/functions.php on line 5107
+[10-Dec-2021 16:22:58 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in Unknown on line 0
+[10-Dec-2021 16:23:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 1499
+[10-Dec-2021 16:25:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 16384 bytes) in /home/runcloud/webapps/viking/wp-content/plugins/elementor/includes/base/widget-base.php on line 574
+[10-Dec-2021 16:25:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in /home/runcloud/webapps/viking/wp-includes/functions.php on line 5107
+[10-Dec-2021 16:25:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in Unknown on line 0
+[10-Dec-2021 16:26:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 16384 bytes) in /home/runcloud/webapps/viking/wp-content/plugins/elementor/includes/base/widget-base.php on line 574
+[10-Dec-2021 16:26:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in /home/runcloud/webapps/viking/wp-includes/functions.php on line 5107
+[10-Dec-2021 16:26:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in Unknown on line 0
+[10-Dec-2021 16:26:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 1264
+[10-Dec-2021 16:26:41 UTC] PHP Notice:  Undefined index: user in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 372
+[10-Dec-2021 16:26:41 UTC] PHP Notice:  Undefined index: user in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 95
+[10-Dec-2021 16:27:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 1240
+[10-Dec-2021 16:27:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 16384 bytes) in /home/runcloud/webapps/viking/wp-content/plugins/elementor/includes/base/widget-base.php on line 574
+[10-Dec-2021 16:27:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in /home/runcloud/webapps/viking/wp-includes/functions.php on line 5107
+[10-Dec-2021 16:27:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in Unknown on line 0
+[10-Dec-2021 16:27:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/runcloud/webapps/viking/wp-content/plugins/elementor/includes/base/widget-base.php on line 178
+[10-Dec-2021 16:27:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/runcloud/webapps/viking/wp-includes/option.php on line 502
+[10-Dec-2021 16:27:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86016 bytes) in Unknown on line 0
+[10-Dec-2021 16:33:05 UTC] PHP Notice:  Undefined index: data in /home/runcloud/webapps/viking/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 171
+[10-Dec-2021 16:35:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 1264
+[10-Dec-2021 16:35:05 UTC] PHP Notice:  Undefined index: user in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 372
+[10-Dec-2021 16:35:05 UTC] PHP Notice:  Undefined index: user in /home/runcloud/webapps/viking/wp-content/themes/hello-theme-child-master/functions.php on line 95

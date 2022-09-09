@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import "../fonts/icomoon/style.css";
+
+@import "../libs/bootstrap/css/bootstrap.css";
+@import "_components/base";
+
+// Component
+@import "_components/animate";
+@import "_components/header";
+@import "_components/footer";
+@import "_components/menu";
+@import "_components/general";
+// Page
+
+@import "_pages/home";

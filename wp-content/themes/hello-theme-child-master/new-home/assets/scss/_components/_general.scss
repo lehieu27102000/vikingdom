@@ -1,0 +1,162 @@
+
+.sc__header{
+    position: relative;
+    z-index: 1;
+    margin: 0 0 64px;
+    .el__line{
+        position: relative;
+        display: block;
+        width: 188px;
+        height: 12px;
+        background: url(../img/line.svg) no-repeat;
+        background-size: 100% 100%;
+        &.-right{
+            transform: rotate(180deg);
+        }
+        &.animated{
+            -webkit-animation:lineToLeft 1.5s ease-in-out;
+            animation:lineToLeft 1.5s ease-in-out;
+        }
+    }
+
+    @keyframes lineToLeft{
+        0%{opacity:0;background-size: 10% 100%;}
+        to{opacity:1;background-size: 100% 100%;}
+    }
+
+
+    &__title{
+        position: relative;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 34px;
+        text-transform: uppercase;
+        margin-bottom: 0;
+        background: linear-gradient(96.42deg, #EAC46D 0%, #CA8A33 101.38%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+    &__sub{
+        margin-top: 16px;
+        font-size: 18px;
+        line-height: 28px;
+        color: #C5C5C5;
+    }
+    @media (max-width: 1199px){
+        margin: 0 0 50px;
+    }
+    @media (max-width: 991px){
+        margin: 0 0 40px;
+        &__title {
+            font-size: 28px;
+            line-height: 32px;
+        }
+    }
+    @media (max-width: 767px){
+        &__title {
+            font-size: 20px;
+            line-height: 30px;
+        }
+        &__sub {
+            font-size: 16px;
+            line-height: 24px;
+        }
+        .el__line {
+            flex-grow: 1;
+            width: auto;
+        }
+    }
+    @media (max-width: 575px){
+        margin: 0 auto 24px;
+        &__title {
+
+        }
+    }
+
+}
+
+// Effect
+
+@-webkit-keyframes lightAnimation {
+  0% {
+    -webkit-filter: brightness(1);
+    filter: brightness(1)
+  }
+  50% {
+    -webkit-filter: brightness(1.3);
+    filter: brightness(1.3)
+  }
+  to {
+    -webkit-filter: brightness(1);
+    filter: brightness(1)
+  }
+}
+
+@-webkit-keyframes bigandsmall{
+    0% {
+        opacity: 0;
+        -webkit-filter: brightness(1);
+        filter: brightness(1);
+        transform: scale(1.0);
+    }
+    50% {
+        opacity: 1;
+        -webkit-filter: brightness(1.3);
+        filter: brightness(1.3);
+        transform: scale(1.2);
+    }
+    to {
+        opacity: 0;
+        -webkit-filter: brightness(1);
+        filter: brightness(1);
+        transform: scale(1.0);
+    }
+}
+
+
+@-webkit-keyframes Mousex{
+  from{-webkit-transform:translate(0,0px);}
+  65%{-webkit-transform:translate(0,10px);}
+  to{-webkit-transform:translate(0,-0px);}
+}
+@-moz-keyframes Mouse{
+  from{-moz-transform:translate(0,0px);}
+  65%{-moz-transform:translate(0,10px);}
+  to{-moz-transform:translate(0,-0px);}
+}
+
+
+@keyframes animate{
+    0%{box-shadow:0 0 50px #0F0,inset 0 0 50px #0F0;filter:hue-rotate(0deg);}
+    20%{box-shadow:0 0 40px #0F0,inset 0 0 60px #0F0;}
+    40%{box-shadow:0 0 40px #0F0,inset 0 0 80px #0F0;}
+    60%{box-shadow:0 0 80px #0F0,inset 0 0 80px #0F0;}
+    80%{box-shadow:0 0 100px #0F0,inset 0 0 100px #0F0;}
+    100%{box-shadow:0 0 50px #0F0,inset 0 0 50px #0F0;filter:hue-rotate(360deg);}
+}
+
+.ef--zoomin .dnfix__thumb img{-webkit-transform:scale(1);transform:scale(1);-webkit-transition:.5s ease-in-out;transition:.5s ease-in-out}
+.ef--zoomin:hover .dnfix__thumb img{-webkit-transform:scale(1.1);transform:scale(1.1)}
+.ef--shine .dnfix__thumb{position:relative;display:block;overflow:hidden}
+.ef--shine .dnfix__thumb::before{position:absolute;top:0;left:-75%;z-index:2;display:block;content:'';width:50%;height:100%;background:-webkit-linear-gradient(left,rgba(255,255,255,0) 0%,rgba(255,255,255,.3) 100%);background:linear-gradient(to right,rgba(255,255,255,0) 0%,rgba(255,255,255,.3) 100%);-webkit-transform:skewX(-25deg);transform:skewX(-25deg)}
+.ef--shine:hover .dnfix__thumb::before{-webkit-animation:shine 1s;animation:shine 1s}
+@-webkit-keyframes shine{
+    100%{left:125%}
+}
+@keyframes shine{
+    100%{left:125%}
+}
+
+.-bg-fix{
+    background-attachment: fixed;
+}
+@supports (-webkit-overflow-scrolling: touch) {
+
+}
+@supports (-webkit-touch-callout: none) {
+  /* CSS specific to iOS devices */
+  .-bg-fix {
+  background-attachment: scroll;
+  }
+}
